@@ -1,0 +1,36 @@
+The total number of users registered with task_manager.py are 5.
+The total number of tasks generated and tracked by task_manager.py are 13.
+Username: admin
+The total number of tasks assigned to admin are 3.
+The percentage of the total number of tasks assigned to admin are 23.08%.
+The percentage of tasks assigned to admin that have been completed are 33.33%.
+The percentage of tasks still to be completed by admin are 66.67%.
+The percentage of incomplete and overdue tasks assigned to admin are 66.67%.
+
+Username: bhavya
+The total number of tasks assigned to bhavya are 2.
+The percentage of the total number of tasks assigned to bhavya are 15.38%.
+The percentage of tasks assigned to bhavya that have been completed are 50.0%.
+The percentage of tasks still to be completed by bhavya are 50.0%.
+The percentage of incomplete and overdue tasks assigned to bhavya are 50.0%.
+
+Username: viji
+The total number of tasks assigned to viji are 3.
+The percentage of the total number of tasks assigned to viji are 23.08%.
+The percentage of tasks assigned to viji that have been completed are 0.0%.
+The percentage of tasks still to be completed by viji are 100.0%.
+The percentage of incomplete and overdue tasks assigned to viji are 66.67%.
+
+Username: jasu
+The total number of tasks assigned to jasu are 3.
+The percentage of the total number of tasks assigned to jasu are 23.08%.
+The percentage of tasks assigned to jasu that have been completed are 33.33%.
+The percentage of tasks still to be completed by jasu are 66.67%.
+The percentage of incomplete and overdue tasks assigned to jasu are 33.33%.
+
+Username: nk
+The total number of tasks assigned to nk are 2.
+The percentage of the total number of tasks assigned to nk are 15.38%.
+The percentage of tasks assigned to nk that have been completed are 0.0%.
+The percentage of tasks still to be completed by nk are 100.0%.
+The percentage of incomplete and overdue tasks assigned to nk are 100.0%.
